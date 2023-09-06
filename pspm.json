@@ -2,5 +2,6 @@
     "name": "Sovol SV06 Plus Support",
     "version": "0.0.1",
     "description": "Support for the SV06 Plus",
-    "author": "Cameron Steele"
+    "author": "Cameron Steele",
+    "url": "https://github.com/ATechAdventurer/SV06Plus-pspm"
 }
